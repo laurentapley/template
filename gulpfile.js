@@ -98,7 +98,7 @@ var config = {
   ],
   vendorJsSrc: [
     // add all external js libraries here
-    currentEnv.src.bc + 'jquery/dist/jquery.js',
+    currentEnv.src.nm + 'jquery/dist/jquery.js',
     currentEnv.src.nm + 'tether/dist/js/tether.js',
     currentEnv.src.nm + 'bootstrap/dist/js/bootstrap.js',
     currentEnv.src.js + 'scripts.js',
